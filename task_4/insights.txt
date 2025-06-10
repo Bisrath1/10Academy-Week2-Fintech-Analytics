@@ -1,0 +1,11 @@
+CBE Drivers: Fast UI, Reliability
+CBE Pain Points: Slow Transfers, Bugs
+BOA Drivers: Easy Transfers, Feature Availability
+BOA Pain Points: Crashes, Login Errors
+Dashen Drivers: Intuitive UI, Transaction Speed
+Dashen Pain Points: Login Issues, Delays
+Comparisons: CBE > Dashen > BOA in ratings/sentiment. Common issue: slow transfers.
+Recommendations:
+- CBE: Optimize transfer speeds (server upgrades), fix bugs (QA), add budgeting tools.
+- BOA: Fix crashes (stress tests), improve login (fingerprint/OTP), add AI chatbot.
+- Dashen: Streamline login (OTP fixes), optimize performance, add fingerprint login and budgeting tools.
