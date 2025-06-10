@@ -3,3 +3,4 @@ scikit-learn>=1.5.1
 spacy>=3.7.6
 transformers>=4.44.2
 torch>=2.4.1
+oracledb>=1.4.2
