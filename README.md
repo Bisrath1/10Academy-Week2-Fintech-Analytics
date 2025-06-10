@@ -29,7 +29,9 @@ This project is part of the 10 Academy Artificial Intelligence Mastery program (
    ```bash
    git clone https://github.com/Bisrath1/10Academy-Week2-Fintech-Analytics.git
 
-   # Task 3: Oracle Database Setup
+   
+   
+## Task 3: Oracle Database Setup
 ## Overview
 Set up an Oracle XE database, created `Banks` and `Reviews` tables, and populated them with review data.
 
@@ -44,3 +46,8 @@ Set up an Oracle XE database, created `Banks` and `Reviews` tables, and populate
 
 ## SQL Dump
 - `bank_reviews.sql` contains the schema and data.
+
+## Task 4: Insights and Recommendations
+- Derived drivers/pain points from 1,200 reviews.
+- Created 7 visualizations: sentiment bar, rating pies (CBE, BOA, Dashen), theme bar, sentiment trend, keyword cloud.
+- Report: task_4/final_report.pdf
